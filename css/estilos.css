@@ -1,0 +1,16 @@
+body
+{
+	padding: 10px;
+	margin: 40px;
+	font-size: 24px;
+	font-family: Helvetica;
+	background-image: url(https://cache.desktopnexus.com/cropped-wallpapers/1411/1411495-1366x768-[DesktopNexus.com].jpg?st=-eeOdlzJ8Ue-78ggflHoPQ&e=1597848792);
+    background-repeat: repeat;
+    color: rgb(8, 8, 8);
+}
+
+nav
+{
+        background-color: rgb(241, 241, 243);
+        padding: 0px;
+        color:#d11aff;
